@@ -11,6 +11,11 @@ The five datasets described in the paper are available under `data/` directory: 
 We use premises taken from the [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07), English Wikipedia and Simple Wikipedia (downloaded May 2020), and [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix). The English Gigaword is distributed under the [LDC User Agreement license](https://catalog.ldc.upenn.edu/LDC2011T07). Wikipedia is licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License (CC-BY-SA) and the GNU Free Documentation License (GFDL). 
 
 
+## Experiments
+
+Code used for the experiments for the paper can be found under `scripts`. Please follow README in each sub-directory for more details. For experiments using `jiant` (we use v1.2), please follow the [documentation](https://github.com/nyu-mll/jiant/tree/80845ba417bbe6c3b2f7b1ab255a9452c4a3d780) for installation and instructions.
+
+
 ## Citation
 
 ```
